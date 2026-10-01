@@ -1,0 +1,6 @@
+# Desktop app dependencies
+tkinter  # Usually comes with Python
+selenium>=4.10
+webdriver-manager>=3.8
+plawright>=1.40
+python-dotenv>=1.0
